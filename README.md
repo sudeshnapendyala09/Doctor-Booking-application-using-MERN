@@ -1,7 +1,7 @@
 # Doctor Booking MERN – Healthcare Appointment System
 
 ## 👩‍💻 Developed By
-Harshitha ch 
+Pendyala Sudeshna
 BTech CSE – AIML  
 
 ---
